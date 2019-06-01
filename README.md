@@ -16,3 +16,5 @@ length of DELTA ROBOT can be modified.
 ![code](/figures/code_len.png "code")
 
 Any problem or suggestion about this simulation is welcomed. 
+
+reference: https://www.ohio.edu/mechanical-faculty/williams/html/pdf/DeltaKin.pdf
