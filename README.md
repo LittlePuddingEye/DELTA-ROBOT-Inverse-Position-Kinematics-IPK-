@@ -1,7 +1,7 @@
 # DELTA-ROBOT-Inverse-Position-Kinematics-IPK-
 DELTA ROBOT IPK using MATLAB
 
-![DELTA ROBOT IPK MATLAB](/figures/simulation.jpg "DELTA ROBOT IPK using MATLAB")
+![DELTA ROBOT IPK MATLAB](/figures/simu.jpg "DELTA ROBOT IPK using MATLAB")
 
 the path is fixed spiral, radius and number of points can be modified.
 
